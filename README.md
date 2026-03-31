@@ -1,4 +1,4 @@
-# pp
+# Ecommerce application fro SD Mart (food and medicine ) module
 
 A new Flutter project.
 
